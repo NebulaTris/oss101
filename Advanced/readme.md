@@ -48,7 +48,3 @@ Acknowledging the contributions and efforts of the open source community is esse
 Ready to embark on an advanced open source adventure? Dive into the sections that resonate with your goals and aspirations. Happy contributing! 🌟
 
 **Note:** This guide is a living document, and we encourage contributions. If you have insights, tips, or resources to share, please submit a pull request!
-
----
-
-Feel free to modify and adapt this template based on the specific content and structure you'd like for your advanced open source guide.
