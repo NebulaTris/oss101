@@ -4,17 +4,17 @@ Welcome to OSS101 - Open Source Enthusiast's Guide! 🚀 This repository is desi
 
 ## Guide Structure
 
-### [🌱 Beginners](beginner/)
+### [🌱 Beginners](Beginner/)
 If you're new to open source, start your journey here. This section covers the basics, providing step-by-step guidance to help you make your first contributions.
 
 ``Challenges mentioned in this sub directory will help you score +1`` 
 
-### [🚀 Intermediate](intermediate/)
+### [🚀 Intermediate](Intermediate/)
 Ready to level up? Dive into intermediate topics that explore more advanced contribution strategies, project maintenance, and scaling impact within the open source community.
 
 ``Challenges mentioned in this sub directory will help you score +3``  
 
-### [🌟 Advanced](advanced/)
+### [🌟 Advanced](Advanced/)
 For seasoned contributors, this section delves into leadership roles, community management, and strategies for making a significant impact in the open source world.
 
 ``Challenges mentioned in this sub directory will help you score +5``
