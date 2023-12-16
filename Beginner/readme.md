@@ -1,16 +1,15 @@
-# For Beginners
+# Beginner Level 🚀
 
-Welcome to the "Guide to Open Source"! Whether you're new to the world of open source or looking to enhance your contributions, this section is designed to help you get started on your journey.
+Welcome to the "OSS101"! Whether you're new to the world of open source or looking to enhance your contributions, this section is designed to help you get started on your journey.
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Setting Up Your Development Environment](#setting-up-your-development-environment)
-4. [Understanding Version Control](#understanding-version-control)
-5. [Choosing Your First Project](#choosing-your-first-project)
-6. [Making Your First Contribution](#making-your-first-contribution)
-7. [Resources](#resources)
+4. [Choosing Your First Project](#choosing-your-first-project)
+5. [Making Your First Contribution](#making-your-first-contribution)
+6. [Resources](#resources)
    
 ## Introduction
 
@@ -40,23 +39,6 @@ Follow these steps to set up your development environment:
    ```bash
    git config --global user.name "Your Name"
    git config --global user.email "your@email.com"
-   ```
-
-4. **Fork this Repository:**
-   Fork this repository to your GitHub account by clicking the "Fork" button at the top of this page.
-
-5. **Clone Your Fork:**
-   Clone your fork to your local machine using the following command (replace `<your-username>` with your GitHub username):
-
-   ```bash
-   git clone https://github.com/<your-username>/oss101.git
-   ```
-
-6. **Navigate to the "Getting Started" Directory:**
-   Change your working directory to the "Getting Started" section:
-
-   ```bash
-   cd oss101/Getting_Started
    ```
 
 Version control is fundamental to collaborative coding. Learn the basics of Git, understand common Git commands, and become comfortable with workflows like branching, committing, and merging.
