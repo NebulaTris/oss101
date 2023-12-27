@@ -1,5 +1,7 @@
 # Advanced Level 🚀
 
+<img align="left" width="380" src="https://github.com/NebulaTris/oss101/assets/94922914/cdafcc3f-9447-4c9e-a593-796013548bb2">
+
 Welcome to OSS101 ! This guide is tailored for advanced contributors who are passionate about open source and want to make a meaningful impact. Whether you're an experienced developer or a seasoned open source contributor, this guide will provide insights, tips, and resources to enhance your open source journey.
 
 ## Table of Contents
