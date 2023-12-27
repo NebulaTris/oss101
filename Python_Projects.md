@@ -1,8 +1,9 @@
 # Projects - Python Centric
 
+Viable PRs in any of these repositories would help you score +5 points
+
 | Name                  | Level      | Link                                     | PR Merge Time            |
 |-----------------------|------------|------------------------------------------|-----------------------|
-| oss101 | Beginner   | https://github.com/NebulaTris/oss101              | <3 Hours   |
 | fork-commit-merge | Beginner   | https://github.com/fork-commit-merge/fork-commit-merge              | <1 Hour   |
 | vibescape | Intermediate| https://github.com/NebulaTris/vibescape             | <3 Hours  |
 | routeviz | Intermediate| https://github.com/NebulaTris/routeviz         | <3 Hours  |
@@ -16,4 +17,3 @@
 | taipy | Advanced   | https://github.com/Avaiga/taipy            | 3 Hours   |
 
 
-Add in your own repositories or others which you find suitable
