@@ -3,8 +3,7 @@
 Welcome to OSS101 - Open Source Enthusiast's Guide! 🚀 This repository is designed to help enthusiasts of all levels—beginner, intermediate, and advanced—navigate the vast landscape of open source contributions.
 
 ## Guide Structure
-
-<img align="right" height="560" src="https://github.com/NebulaTris/oss101/assets/94922914/5cedaf81-e146-4ca7-854c-cb3148ced5cb">
+<!--<img align="right" height="560" src="https://github.com/NebulaTris/oss101/assets/94922914/5cedaf81-e146-4ca7-854c-cb3148ced5cb">-->
 
 ### [🌱 Beginners](Beginner/)
 If you're new to open source, start your journey here. This section covers the basics, providing step-by-step guidance to help you make your first contributions.
