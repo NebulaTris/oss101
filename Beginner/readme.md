@@ -1,5 +1,7 @@
 # Beginner Level 🚀
 
+<img align="left" width="360" src="https://github.com/NebulaTris/oss101/assets/94922914/3701c880-a62e-4e21-84c7-70432bff8e7c">
+
 Welcome to the "OSS101"! Whether you're new to the world of open source or looking to enhance your contributions, this section is designed to help you get started on your journey.
 
 ## Table of Contents
@@ -10,6 +12,7 @@ Welcome to the "OSS101"! Whether you're new to the world of open source or looki
 4. [Choosing Your First Project](#choosing-your-first-project)
 5. [Making Your First Contribution](#making-your-first-contribution)
 6. [Resources](#resources)
+<br>
    
 ## Introduction
 
