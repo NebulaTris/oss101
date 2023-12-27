@@ -1,6 +1,6 @@
 # Intermediate Level 🚀
 
-<img align="left" width="480" src="https://github.com/NebulaTris/oss101/assets/94922914/9731d773-bd9c-4d36-a4a8-a5b80abaeaae">
+<img align="left" width="460" src="https://github.com/NebulaTris/oss101/assets/94922914/0faa04b9-f936-4836-9d4d-05ee71b087db">
 
 Welcome to our open source community! If you're an intermediate contributor looking to make meaningful contributions, you're in the right place. Your efforts help drive innovation and improve our projects. Here's a guide to help you get started:
 
