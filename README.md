@@ -1,4 +1,4 @@
-# OSS 101
+# OSS 101 ✨
 
 Welcome to OSS101 - Open Source Enthusiast's Guide! 🚀 This repository is designed to help enthusiasts of all levels—beginner, intermediate, and advanced—navigate the vast landscape of open source contributions.
 
@@ -20,7 +20,19 @@ For seasoned contributors, this section delves into leadership roles, community 
 
 ``Challenges mentioned in this sub directory will help you score +5``
 
-## Contributing
+## Time to Start 🚀
+
+<a href="https://github.com/NebulaTris/oss101/fork?name=oss101-clone-for-challenge&description=My+clone+repository+of-oss101&visibility=public"><img width="170" src="https://github.com/NebulaTris/oss101/assets/94922914/b5220396-65c8-463b-a1b7-f78a6835c29f"></a>
+
+1. Right-click **Start Challenge** and open the link in a new tab.
+2. In the new tab, most of the prompts will automatically fill in for you.
+   - For owner, choose your personal account or an organization to host the repository.
+   - We recommend creating a public repository.
+   - Scroll down and click the **Create repository** button at the bottom of the form.
+3. After your new repository is created go about the steps as mentioned in the subdirectories as per your level of expertise.
+
+
+## Contributing 🤝
 
 Feel free to enhance this guide by contributing your insights and resources. Each level has its own sub-directory with a dedicated README, providing details on how to contribute to that specific section.
 
