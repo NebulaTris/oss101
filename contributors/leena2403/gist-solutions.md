@@ -10,6 +10,4 @@ Topic Description: I tried to concisely explain the main connection between AI a
 
 [Code Snippet](https://gist.github.com/Leena2403/3c74e04b89438971ac00bdc7af04410c)
 
-Code Description: It's just a simple insertion sort written in python that seeks to put the elements in ascending order.
-
-
+Code Description: It's just a simple Insertion Sort written in python that seeks to put the elements in ascending order. 
