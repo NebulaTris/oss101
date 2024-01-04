@@ -1,5 +1,5 @@
 
-print("What is the Answer to the Universe /n"
+print("What is the Answer to the Universe /n")
 
 X = 20
 Y = 22
