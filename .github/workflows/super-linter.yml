@@ -1,30 +1,33 @@
-# This workflow executes several linters on changed files based on languages used in your code base whenever
-# you push a code or open a pull request.
-#
-# You can adjust the behavior by modifying this file.
-# For more information, see:
-# https://github.com/github/super-linter
-name: Lint Code Base
-
+---
+### Super Linter
+name: Linting Code Base using Super Linter
 on:
-  push:
-    branches: [ "main" ]
+  # push:
+  #  # branches: [main]
   pull_request:
-    branches: [ "main" ]
+    branches: [main]
 jobs:
-  run-lint:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
+      # To report GitHub Actions status checks
+      statuses: write
     steps:
-      - name: Checkout code
+      - name: Checkout Code
         uses: actions/checkout@v3
         with:
-          # Full git history is needed to get a proper list of changed files within `super-linter`
+          # Checkout whole repo for Lint
           fetch-depth: 0
-
-      - name: Lint Code Base
-        uses: github/super-linter@v4
+      - name: Lint Whole Repository
+        # Slim version do not have rust, pwsh, c#, armttk , dotenv, rust linters and its bit fast
+        # if want to use normal version then just remove SLIM before @ till / as ../super-linter@Versoin
+        uses: super-linter/super-linter/slim@v5.7.2
         env:
-          VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: "main"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # ALL_codebase parse the entire repository and find all files to validate across all types. NOTE: When set to false, only new or edited files will be parsed for validation.
+          VALIDATE_ALL_CODEBASE: true
           VALIDATE_MARKDOWN: false
+          VALIDATE_NATURAL_LANGUAGE: false  # disable linting Text/Markdown
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
