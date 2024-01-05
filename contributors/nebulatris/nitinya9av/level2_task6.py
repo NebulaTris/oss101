@@ -11,7 +11,7 @@ def multiply(x, y):
 
 def divide(x, y):
     if y == 0:
-        return "Error! Division by zero."
+        return "Error! Division by zero not defined."
     else:
         return x / y
 
