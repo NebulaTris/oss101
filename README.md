@@ -32,6 +32,11 @@ For seasoned contributors, this section delves into leadership roles, community 
    - Scroll down and click the **Create fork** button at the bottom of the form.
 3. After your new repository is created go about the steps as mentioned in the subdirectories as per your level of expertise.
 
+## Contributors 🥳🎉
+
+<a href="https://github.com/NebulaTris/oss101/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NebulaTris/oss101" />
+</a>
 
 ## Contributing 🤝
 
