@@ -58,6 +58,8 @@ Now comes the exciting part – making your first contribution! This might invol
 
 GitHub's [Contributing to Open Source](https://opensource.guide/how-to-contribute/) guide is an excellent resource.
 
+Another awesome resource is [Learn Git Branching](https://learngitbranching.js.org/). It will help you learn all concepts with visualization
+
 ## Resources
 
 - [GitHub Guides](https://guides.github.com/) - Essential guides for using GitHub.
