@@ -1,0 +1,34 @@
+---
+### Super Linter
+name: Linting Code Base using Super Linter
+on:
+  # push:
+  #  # branches: [main]
+  #pull_request:
+    #branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
+      # To report GitHub Actions status checks
+      statuses: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          # Checkout whole repo for Lint
+          fetch-depth: 0
+      - name: Lint Whole Repository
+        # Slim version do not have rust, pwsh, c#, armttk , dotenv, rust linters and its bit fast
+        # if want to use normal version then just remove SLIM before @ till / as ../super-linter@Versoin
+        uses: super-linter/super-linter/slim@v5.7.2
+        env:
+          # ALL_codebase parse the entire repository and find all files to validate across all types. NOTE: When set to false, only new or edited files will be parsed for validation.
+          VALIDATE_ALL_CODEBASE: true
+          VALIDATE_MARKDOWN: false
+          VALIDATE_YAML: false
+          VALIDATE_NATURAL_LANGUAGE: false  # disable linting Text/Markdown
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
