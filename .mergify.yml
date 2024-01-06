@@ -6,3 +6,21 @@ pull_request_rules:
     actions:
       merge:
         method: merge
+  - name: Ask to resolve conflict
+    conditions:
+      - conflict
+    actions:
+      comment:
+        message: This pull request is now in conflicts. Could you fix this @{{author}} ?
+  - name: comment when a pull request is merged
+    conditions:
+      - merged
+    actions:
+      comment:
+        message: Thank you for your contribution @{{author}}! Your pull request has been merged.
+  - name: comment when a pull request is labeled "needs review"
+    conditions:
+      - label=needs review
+    actions:
+      comment:
+        message: Thank you for your contribution! A reviewer will be assigned soon.
