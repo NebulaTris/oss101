@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Change in SAM8402-details
+=======
+Change in SAM8402-details2
+>>>>>>> SAM8402-details2
