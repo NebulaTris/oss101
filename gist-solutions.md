@@ -1,4 +1,24 @@
-## Beginner Challenge 6
+def binary_search(arr, target):
+    """
+    Perform binary search on a sorted array.
 
-* Gist 1: My Interest: https://gist.github.com/rohansahni/c8761869b7b84ea642fa846b4f8ea9b7
-* Gist 2: Code Snippet: https://gist.github.com/rohansahni/5e9598d0b3daddeea3f2be4acd90b60b
+    Parameters:
+    - arr (list): The sorted array to search.
+    - target: The target element to find in the array.
+
+    Returns:
+    - int: The index of the target element if found, otherwise -1.
+    """
+    low, high = 0, len(arr) - 1
+
+    while low <= high:
+        mid = (low + high) // 2
+
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+
+    return -1
