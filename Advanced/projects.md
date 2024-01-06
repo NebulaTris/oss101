@@ -5,6 +5,7 @@ Viable PRs in any of these repositories would help you score +5 points
 | Name                  | Level      | Link                                     | PR Merge Time            |
 |-----------------------|------------|------------------------------------------|-----------------------|
 | fork-commit-merge | Beginner   | https://github.com/fork-commit-merge/fork-commit-merge              | <1 Hour   |
+| firstcontributions | Beginner   | https://github.com/firstcontributions/first-contributions              | <5 Hour   |
 | vibescape | Intermediate| https://github.com/NebulaTris/vibescape             | <3 Hours  |
 | routeviz | Intermediate| https://github.com/NebulaTris/routeviz         | <3 Hours  |
 | Beginners-Python-Examples | Intermediate| https://github.com/zeta-punk-x1/Beginners-Python-Examples             | <1 Hour  |
