@@ -34,10 +34,10 @@ For seasoned contributors, this section delves into leadership roles, community 
 
 ## Contributors 🥳🎉
 
-<p align="center"><a href="https://github.com/NebulaTris/oss101/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=NebulaTris/oss101" />
+<a href="https://github.com/NebulaTris/oss101/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NebulaTris/oss101" />
 </a>
-</p>
+
 
 ## Contributing 🤝
 
