@@ -1,5 +1,15 @@
 # OSS 101 ✨
 
+### 📢 Notice
+
+> **This repository was originally created as part of the `OSS101` challenge** to help learners dive into open-source through practical hands-on tasks and challenges.
+>
+> 🔒 **The official OSS101 challenge has now concluded**, and participants will no longer receive points, badges, or rewards for completing the tasks.
+>
+> 🎓 However, all the challenges and resources in this repo are **still open and available for learning purposes**. Feel free to fork the repo, try the challenges, and level up your skills at your own pace!
+>
+> Happy learning and hacking! 💻🚀
+
 Welcome to OSS101 - Open Source Enthusiast's Guide! 🚀 This repository is designed to help enthusiasts of all levels—beginner, intermediate, and advanced—navigate the vast landscape of open source contributions.
 
 ## Guide Structure
